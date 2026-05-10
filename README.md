@@ -148,6 +148,7 @@
 - [Langui](https://github.com/LangbaseInc/langui) - Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 - [Nextjs Auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [Kinde Auth Nextjs](https://github.com/kinde-oss/kinde-auth-nextjs) - Kinde NextJS SDK - authentication for server rendered apps.
+- [Billing SDK](https://github.com/dodopayments/billingsdk) - Type-safe React billing and subscription components (pricing tables, usage meters, plan upgrade flows) built with Tailwind CSS and shadcn/ui.
 
 ## E Commerce
 
